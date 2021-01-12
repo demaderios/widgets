@@ -1,1 +1,28 @@
-<mxfile host="app.diagrams.net" modified="2021-01-12T12:59:00.706Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" version="14.1.9" etag="eZJsdJn_eaZ_NEe5Abw8" type="github"><diagram id="W4DhfKnpLDJ9fYKVYPp-">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-12T13:01:32.847Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 Edg/87.0.664.75" etag="H-6mArglhQXYZT9Cr6_D" version="14.1.9" type="github">
+  <diagram id="W4DhfKnpLDJ9fYKVYPp-" name="Page-1">
+    <mxGraphModel dx="786" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tiNxUtiGMwHVc0xYzRsb-1" value="App" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="338" y="80" width="175" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="tiNxUtiGMwHVc0xYzRsb-2" value="Accordion" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="338" y="290" width="175" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="tiNxUtiGMwHVc0xYzRsb-4" value="state" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="50" y="70" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiNxUtiGMwHVc0xYzRsb-5" value="activeIndex" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="420" y="300" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="tiNxUtiGMwHVc0xYzRsb-6" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="tiNxUtiGMwHVc0xYzRsb-1" target="tiNxUtiGMwHVc0xYzRsb-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="390" as="sourcePoint" />
+            <mxPoint x="430" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
